@@ -172,10 +172,4 @@ Special thanks to the ARC Prize Foundation and Kaggle for organizing one of the 
 
 ---
 
-## 📄 License
-
-This project is released under the **MIT License**.
-
----
-
 ⭐ If you find this repository interesting, feel free to star it and follow the project's progress.
