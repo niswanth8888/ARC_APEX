@@ -1,175 +1,253 @@
-# 🧩 ARC Prize 2026 – ARC-AGI-3
+<div align="center">
 
-> **Ongoing Kaggle Competition | Artificial General Intelligence | Abstract Reasoning | Adaptive AI**
+# 🧩 ARC APEX
+### Adaptive Reasoning Framework for the ARC Prize Challenge
 
-![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
-![Competition](https://img.shields.io/badge/Kaggle-ARC--AGI--3-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
+*An AI research project focused on abstract reasoning, pattern discovery, and intelligent problem-solving using the Abstraction and Reasoning Corpus (ARC).*
 
----
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Kaggle](https://img.shields.io/badge/Kaggle-ARC%20Prize-20BEFF?style=for-the-badge&logo=kaggle)
+![Status](https://img.shields.io/badge/Status-Research-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 📌 Project Overview
-
-This repository contains my ongoing work and research for the **Kaggle ARC Prize 2026 – ARC-AGI-3** competition.
-
-The competition focuses on developing AI systems capable of **generalizing to previously unseen tasks**, emphasizing **abstraction, reasoning, planning, and adaptive problem-solving** rather than memorization. The objective is to design intelligent agents that can efficiently learn new skills and solve novel challenges in interactive environments.
-
-This repository serves as both a competition submission workspace and a research log, documenting the evolution of ideas, experiments, and implementation strategies throughout the competition.
+</div>
 
 ---
 
-## 🎯 Objectives
+# 📖 Overview
 
-- Develop an intelligent reasoning agent capable of solving unseen tasks.
-- Explore abstraction and generalization techniques.
-- Design efficient search and planning algorithms.
-- Implement adaptive decision-making strategies.
-- Evaluate multiple approaches for robust problem-solving.
-- Continuously improve solution quality through experimentation.
+**ARC APEX** is an experimental AI framework developed for the **Kaggle ARC Prize** competition. The project investigates how artificial intelligence can solve abstract reasoning problems by learning transformation rules from a small number of examples instead of relying on large-scale datasets.
+
+The framework focuses on creating a robust execution pipeline that combines runtime configuration, benchmark initialization, solver customization, and intelligent reasoning to process ARC benchmark tasks efficiently.
 
 ---
 
-## 🧠 Research Areas
+# 🎯 Objectives
 
-The project explores concepts including:
-
-- Abstract Reasoning
-- Artificial General Intelligence (AGI)
-- Adaptive Learning
-- Program Synthesis
-- Symbolic AI
-- Search Algorithms
-- Planning Strategies
-- Heuristic Optimization
-- Grid Transformation
-- Intelligent Agent Design
+- Develop an intelligent framework capable of solving ARC benchmark tasks.
+- Explore abstract reasoning and pattern recognition techniques.
+- Build a reliable execution pipeline for Kaggle competition environments.
+- Support both offline development and live competition execution.
+- Create a modular and extensible architecture for future AI reasoning research.
 
 ---
 
-## 🚀 Current Status
+# 🚀 Features
 
-This project is currently under active development.
-
-### Progress
-
-- ✅ Competition Joined
-- ✅ Repository Initialized
-- ✅ Problem Analysis
-- 🔄 Baseline Development
-- 🔄 Experimental Research
-- ⏳ Agent Optimization
-- ⏳ Performance Evaluation
-- ⏳ Final Competition Submission
+- ✅ Automatic Kaggle runtime configuration
+- ✅ Offline and competition execution modes
+- ✅ Dynamic source bundle discovery
+- ✅ Automated dependency installation
+- ✅ Benchmark initialization and execution
+- ✅ Modular solver customization
+- ✅ GPU-ready runtime configuration
+- ✅ Interactive diagnostics and reporting
 
 ---
 
-## 📂 Repository Structure
+# 🏗 System Architecture
 
 ```text
-ARC-AGI-3
+                ARC APEX
+
+                      │
+                      ▼
+     Runtime Environment Initialization
+                      │
+                      ▼
+      ARC Runtime Installation
+                      │
+                      ▼
+     Source Bundle Configuration
+                      │
+                      ▼
+      Solver Environment Setup
+                      │
+                      ▼
+     Benchmark Initialization
+                      │
+                      ▼
+    Solver Customization Layer
+                      │
+                      ▼
+      ARC Benchmark Execution
+                      │
+                      ▼
+     Diagnostic Visualization
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+ARC_APEX/
 │
-├── notebooks/          # Kaggle notebooks
-├── src/                # Core implementation
-├── experiments/        # Experimental approaches
-├── submissions/        # Competition submissions
-├── models/             # Solver implementations
-├── utils/              # Utility functions
-├── docs/               # Documentation
-├── assets/             # Images and resources
-└── README.md
+├── runtime_environment.py
+├── arc_runtime_installation.py
+├── source_bundle_configuration.py
+├── solver_setup.py
+├── benchmark_initialization.py
+├── solver_customization.py
+├── benchmark_execution.py
+├── diagnostic_visualization.py
+│
+├── README.md
+└── LICENSE
 ```
 
 ---
 
-## ⚙️ Development Workflow
+# ⚙️ Workflow
 
-```
-Problem Analysis
-        ↓
-Task Understanding
-        ↓
-Algorithm Design
-        ↓
-Implementation
-        ↓
-Experimentation
-        ↓
-Performance Evaluation
-        ↓
-Optimization
-        ↓
-Competition Submission
+```text
+Initialize Runtime
+        │
+        ▼
+Configure Kaggle Environment
+        │
+        ▼
+Install ARC Runtime
+        │
+        ▼
+Locate Source Bundles
+        │
+        ▼
+Prepare Solver
+        │
+        ▼
+Load Benchmark
+        │
+        ▼
+Customize Solver
+        │
+        ▼
+Execute ARC Tasks
+        │
+        ▼
+Generate Predictions
+        │
+        ▼
+Visualize Diagnostics
 ```
 
 ---
 
-## 🛠 Technologies
+# 🧠 Core Modules
+
+| Module | Description |
+|---------|-------------|
+| Runtime Environment | Configures execution settings and GPU support. |
+| ARC Runtime Installation | Installs required offline competition dependencies. |
+| Source Bundle Configuration | Locates datasets and configures resource paths. |
+| Solver Setup | Registers repositories and prepares the execution environment. |
+| Benchmark Initialization | Loads benchmark configuration and deployment targets. |
+| Solver Customization | Applies optional enhancements and experimental extensions. |
+| Benchmark Execution | Executes the ARC benchmark in offline or competition mode. |
+| Diagnostic Visualization | Displays execution reports and runtime diagnostics. |
+
+---
+
+# 🛠 Technology Stack
+
+### Programming Language
 
 - Python
+
+### Frameworks & Libraries
+
+- ARC-AGI Runtime
+- Kaggle Notebook Environment
 - NumPy
 - Pandas
 - Matplotlib
+- Pickle
+- IPython
+
+### Development Environment
+
+- Kaggle
 - Jupyter Notebook
-- Kaggle Notebook Environment
+- Git
+- GitHub
 
 ---
 
-## 📈 Development Roadmap
+# 🔬 Research Focus
 
-- [x] Join Competition
-- [x] Repository Setup
-- [x] Initial Research
-- [ ] Baseline Solver
-- [ ] Reasoning Engine
-- [ ] Search-Based Solver
-- [ ] Hybrid Agent
-- [ ] Performance Optimization
-- [ ] Final Submission
-- [ ] Documentation
+ARC APEX explores multiple aspects of Artificial Intelligence including:
 
----
-
-## 📊 Repository Purpose
-
-This repository is intended to document the complete development lifecycle of my participation in the ARC Prize 2026 competition, including:
-
-- Research notes
-- Experimental implementations
-- Algorithm comparisons
-- Performance analysis
-- Solver improvements
-- Competition submissions
-- Technical documentation
-
-Updates will be added regularly as new experiments and improvements are completed.
-
----
-
-## 📚 Learning Goals
-
-Throughout this competition, I aim to deepen my understanding of:
-
-- Artificial General Intelligence
-- Generalization in AI
-- Reasoning Systems
-- Intelligent Search
+- Abstract Reasoning
+- Pattern Recognition
+- Rule Discovery
 - Adaptive Problem Solving
-- Agent-Based Architectures
-- Efficient Algorithm Design
+- Benchmark-driven Evaluation
+- AI System Orchestration
 
 ---
 
-## 🤝 Acknowledgements
+# 📈 Execution Pipeline
 
-Special thanks to the ARC Prize Foundation and Kaggle for organizing one of the most challenging competitions in the field of Artificial General Intelligence, providing an opportunity to explore research-oriented approaches toward building more capable AI systems.
+```text
+Environment Setup
+        │
+        ▼
+Dependency Installation
+        │
+        ▼
+Dataset Discovery
+        │
+        ▼
+Runtime Configuration
+        │
+        ▼
+Benchmark Loading
+        │
+        ▼
+Solver Execution
+        │
+        ▼
+Prediction Generation
+        │
+        ▼
+Performance Analysis
+```
 
 ---
 
-## 📌 Project Status
+# 🎯 Current Status
 
-> 🚧 **This repository is actively maintained and will continue to evolve throughout the duration of the Kaggle ARC Prize 2026 – ARC-AGI-3 competition.**
+| Component | Status |
+|-----------|--------|
+| Runtime Environment | ✅ Completed |
+| ARC Runtime Setup | ✅ Completed |
+| Source Configuration | ✅ Completed |
+| Solver Integration | ✅ Completed |
+| Benchmark Execution | ✅ Completed |
+| Diagnostics | ✅ Completed |
+| Framework Optimization | 🚧 Ongoing |
 
 ---
 
-⭐ If you find this repository interesting, feel free to star it and follow the project's progress.
+# 📌 Future Enhancements
+
+- Advanced reasoning strategies
+- Hybrid symbolic and neural reasoning
+- Improved benchmark optimization
+- Enhanced diagnostics dashboard
+- Performance profiling
+- Additional solver plugins
+
+---
+
+# 👨‍💻 Author
+
+**Niswanth T**
+
+Artificial Intelligence & Machine Learning Engineer
+
+---
+
+# ⭐ Support
+
+If you find this project interesting, consider giving the repository a **Star** ⭐ and following future updates as the framework continues to evolve.
