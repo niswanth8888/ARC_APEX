@@ -725,10 +725,6 @@ This repository's documentation, organization, experimentation, and project-spec
 
 Building AI systems focused on reasoning, automation, and intelligent problem solving.
 
-<br>
-
-⭐ If you find ARC APEX interesting, consider starring the repository.
-
 </div>
 
 ---
