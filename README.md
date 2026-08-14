@@ -721,8 +721,6 @@ This repository's documentation, organization, experimentation, and project-spec
 
 ### Niswanth T
 
-Building AI systems focused on reasoning, automation, and intelligent problem solving.
-
 </div>
 
 ---
