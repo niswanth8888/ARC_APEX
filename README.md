@@ -717,12 +717,6 @@ This repository's documentation, organization, experimentation, and project-spec
 
 # 👨‍💻 Author
 
-<div align="center">
-
-### Niswanth T
-
-</div>
-
 ---
 
 <div align="center">
