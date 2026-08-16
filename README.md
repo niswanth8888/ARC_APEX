@@ -715,10 +715,6 @@ This repository's documentation, organization, experimentation, and project-spec
 
 ---
 
-# 👨‍💻 Author
-
----
-
 <div align="center">
 
 ### 🧩 ARC APEX
