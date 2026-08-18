@@ -711,7 +711,6 @@ ARC APEX is developed for experimentation within the **ARC Prize / ARC-AGI compe
 
 Third-party libraries, frameworks, datasets, and competition resources remain subject to their respective licenses and terms.
 
-This repository's documentation, organization, experimentation, and project-specific modifications are maintained separately.
 
 ---
 
