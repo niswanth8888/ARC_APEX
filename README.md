@@ -709,9 +709,6 @@ The current repository represents the competition execution framework and baseli
 
 ARC APEX is developed for experimentation within the **ARC Prize / ARC-AGI competition ecosystem** and uses competition-provided runtime components and infrastructure where applicable.
 
-Third-party libraries, frameworks, datasets, and competition resources remain subject to their respective licenses and terms.
-
-
 ---
 
 <div align="center">
