@@ -705,12 +705,6 @@ The current repository represents the competition execution framework and baseli
 
 ---
 
-# 📚 Attribution & Ecosystem
-
-ARC APEX is developed for experimentation within the **ARC Prize / ARC-AGI competition ecosystem** and uses competition-provided runtime components and infrastructure where applicable.
-
----
-
 <div align="center">
 
 ### 🧩 ARC APEX
