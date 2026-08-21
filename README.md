@@ -701,8 +701,6 @@ The architecture should make it possible to test new reasoning strategies withou
 
 **ARC APEX is an active experimental research project.**
 
-The current repository represents the competition execution framework and baseline implementation. Solver strategies, inference methods, and optimization techniques are expected to evolve as experimentation continues.
-
 ---
 
 <div align="center">
