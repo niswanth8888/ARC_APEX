@@ -697,12 +697,6 @@ The architecture should make it possible to test new reasoning strategies withou
 
 ---
 
-# ⚠️ Project Status
-
-**ARC APEX is an active experimental research project.**
-
----
-
 <div align="center">
 
 ### 🧩 ARC APEX
