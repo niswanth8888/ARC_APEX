@@ -693,8 +693,6 @@ Every optimization should be evaluated against a known baseline.
 
 ### 03 — Build for experimentation
 
-The architecture should make it possible to test new reasoning strategies without rebuilding the entire system.
-
 ---
 
 <div align="center">
