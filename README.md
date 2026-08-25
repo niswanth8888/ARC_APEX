@@ -691,8 +691,6 @@ More computation does not automatically produce better reasoning.
 
 Every optimization should be evaluated against a known baseline.
 
-### 03 — Build for experimentation
-
 ---
 
 <div align="center">
