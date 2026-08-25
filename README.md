@@ -689,10 +689,6 @@ More computation does not automatically produce better reasoning.
 
 ### 02 — Measure every improvement
 
-Every optimization should be evaluated against a known baseline.
-
----
-
 <div align="center">
 
 ### 🧩 ARC APEX
