@@ -685,10 +685,6 @@ ARC APEX follows three principles:
 
 ### 01 — Reasoning over brute force
 
-More computation does not automatically produce better reasoning.
-
-### 02 — Measure every improvement
-
 <div align="center">
 
 ### 🧩 ARC APEX
