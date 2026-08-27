@@ -676,15 +676,6 @@ Future work will investigate:
 - Failure categorization
 - Runtime profiling
 - Version-to-version benchmarking
-
----
-
-# 📌 Project Philosophy
-
-ARC APEX follows three principles:
-
-### 01 — Reasoning over brute force
-
 <div align="center">
 
 ### 🧩 ARC APEX
