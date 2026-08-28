@@ -669,13 +669,6 @@ Future work will investigate:
 - Failure recovery
 - Candidate validation
 - Confidence-aware execution
-
-### 📊 Evaluation
-
-- Task-level performance analysis
-- Failure categorization
-- Runtime profiling
-- Version-to-version benchmarking
 <div align="center">
 
 ### 🧩 ARC APEX
