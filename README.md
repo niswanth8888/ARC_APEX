@@ -662,13 +662,6 @@ Future work will investigate:
 - Parallel candidate generation
 - Adaptive compute allocation
 - Model selection
-
-### 🛡️ Reliability
-
-- Retry mechanisms
-- Failure recovery
-- Candidate validation
-- Confidence-aware execution
 <div align="center">
 
 ### 🧩 ARC APEX
