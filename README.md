@@ -655,13 +655,6 @@ Future work will investigate:
 - Multi-hypothesis solving
 - Symbolic transformation discovery
 - Self-verification
-
-### ⚡ Inference
-
-- GPU-efficient inference
-- Parallel candidate generation
-- Adaptive compute allocation
-- Model selection
 <div align="center">
 
 ### 🧩 ARC APEX
