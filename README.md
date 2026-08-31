@@ -647,14 +647,6 @@ Performance experiments will be tracked independently.
 
 ARC APEX is being developed as an ongoing research project.
 
-Future work will investigate:
-
-### 🧠 Reasoning
-
-- Structured reasoning
-- Multi-hypothesis solving
-- Symbolic transformation discovery
-- Self-verification
 <div align="center">
 
 ### 🧩 ARC APEX
