@@ -625,20 +625,6 @@ Performance experiments will be tracked independently.
 
 # 🛠️ Technology Stack
 
-<div align="center">
-
-| Category | Technologies |
-|---|---|
-| Language | Python |
-| AI Domain | Abstract Reasoning / ARC-AGI |
-| Competition | Kaggle ARC Prize |
-| Runtime | ARC-AGI Runtime |
-| Compute | NVIDIA RTX PRO 6000 |
-| Environment | Kaggle / Jupyter |
-| Version Control | Git / GitHub |
-| Data Processing | Python ecosystem |
-| Diagnostics | HTML / IPython |
-
 </div>
 
 ---
