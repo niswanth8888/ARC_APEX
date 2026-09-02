@@ -620,19 +620,6 @@ Performance experiments will be tracked independently.
 | V5 | — | — | 🔬 Optimization |
 
 > Future versions will only replace the baseline when they demonstrate a measurable improvement.
-
----
-
-# 🛠️ Technology Stack
-
-</div>
-
----
-
-# 🔬 Research Direction
-
-ARC APEX is being developed as an ongoing research project.
-
 <div align="center">
 
 ### 🧩 ARC APEX
