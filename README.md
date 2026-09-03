@@ -605,19 +605,7 @@ Current
 - [ ] Increase competition score
 - [ ] Reach Top 20
 
----
 
-# 📈 Version Tracking
-
-Performance experiments will be tracked independently.
-
-| Version | Score | Rank | Status |
-|---|---:|---:|---|
-| **V1** | **1.24** | **156** | 🟢 Baseline |
-| V2 | — | — | 🔬 Optimization |
-| V3 | — | — | 🔬 Optimization |
-| V4 | — | — | 🔬 Optimization |
-| V5 | — | — | 🔬 Optimization |
 
 > Future versions will only replace the baseline when they demonstrate a measurable improvement.
 <div align="center">
