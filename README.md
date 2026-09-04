@@ -592,19 +592,6 @@ Current
 └─────────────────┘
 ```
 
-### Research Targets
-
-- [ ] Improve reasoning accuracy
-- [ ] Improve candidate generation
-- [ ] Improve candidate verification
-- [ ] Optimize model inference
-- [ ] Improve retry and recovery behavior
-- [ ] Improve compute allocation
-- [ ] Analyze failed benchmark tasks
-- [ ] Reduce unnecessary inference
-- [ ] Increase competition score
-- [ ] Reach Top 20
-
 
 
 > Future versions will only replace the baseline when they demonstrate a measurable improvement.
