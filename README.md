@@ -556,43 +556,6 @@ Every major ARC APEX improvement will be evaluated against the established basel
              Next Version
 ```
 
-This prevents uncontrolled modifications from making performance regressions difficult to diagnose.
-
----
-
-# 🏁 Performance Roadmap
-
-```text
-Current
-  │
-  ▼
-┌─────────────────┐
-│ Score: 1.24     │
-│ Rank: 156       │
-└────────┬────────┘
-         │
-         ▼
-   Solver Analysis
-         │
-         ▼
-   Inference Optimization
-         │
-         ▼
-   Reasoning Improvements
-         │
-         ▼
-   Recovery Improvements
-         │
-         ▼
-   Compute Optimization
-         │
-         ▼
-┌─────────────────┐
-│    TOP 20       │
-└─────────────────┘
-```
-
-
 
 > Future versions will only replace the baseline when they demonstrate a measurable improvement.
 <div align="center">
