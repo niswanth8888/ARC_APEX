@@ -521,41 +521,7 @@ The long-term ARC APEX reasoning architecture is centered around a hypothesis-dr
                        Retry
 ```
 
-This architecture is an evolving research direction rather than a fixed final design.
-
----
-
-# 🔄 Optimization Methodology
-
-Every major ARC APEX improvement will be evaluated against the established baseline.
-
-```text
-             BASELINE
-               1.24
-                 │
-                 ▼
-          Modify ONE Area
-                 │
-                 ▼
-             Run Test
-                 │
-                 ▼
-          Submit / Evaluate
-                 │
-                 ▼
-        ┌────────┴────────┐
-        │                 │
-        ▼                 ▼
-     Improved          Worse
-        │                 │
-        ▼                 ▼
-     Keep Change      Analyze Cause
-        │                 │
-        └────────┬────────┘
-                 ▼
-             Next Version
-```
-
+This architecture is an evolving research direction rather than a fixed final design
 
 > Future versions will only replace the baseline when they demonstrate a measurable improvement.
 <div align="center">
