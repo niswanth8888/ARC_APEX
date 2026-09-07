@@ -521,10 +521,6 @@ The long-term ARC APEX reasoning architecture is centered around a hypothesis-dr
                        Retry
 ```
 
-This architecture is an evolving research direction rather than a fixed final design
-
-> Future versions will only replace the baseline when they demonstrate a measurable improvement.
-<div align="center">
 
 ### 🧩 ARC APEX
 
