@@ -485,42 +485,6 @@ Instead:
 
 ---
 
-# 🧠 Reasoning Strategy
-
-The long-term ARC APEX reasoning architecture is centered around a hypothesis-driven process.
-
-```text
-                ARC TASK
-                   │
-                   ▼
-            Analyze Input
-                   │
-                   ▼
-          Identify Patterns
-                   │
-                   ▼
-         Generate Hypotheses
-             │    │    │
-             ▼    ▼    ▼
-            H1   H2   H3
-             │    │    │
-             └────┼────┘
-                  ▼
-          Candidate Evaluation
-                  │
-                  ▼
-             Verification
-             │           │
-             ▼           ▼
-          Valid        Invalid
-             │           │
-             ▼           ▼
-          Output      Recovery
-                         │
-                         ▼
-                       Retry
-```
-
 
 ### 🧩 ARC APEX
 
