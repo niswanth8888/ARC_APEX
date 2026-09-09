@@ -467,15 +467,6 @@ GPU
 └── NVIDIA RTX PRO 6000
 ```
 
-The GPU is particularly important for future experimentation involving:
-
-- Larger reasoning models
-- Multiple candidate generations
-- Parallel inference
-- Candidate verification
-- Retry strategies
-- Compute-aware reasoning
-- Faster experimentation
 
 The objective is not to maximize GPU utilization blindly.
 
