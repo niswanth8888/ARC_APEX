@@ -452,27 +452,6 @@ Diagnostics
     └── Benchmark Analysis
 ```
 
-This information is useful when comparing different ARC APEX versions.
-
----
-
-# ⚡ GPU Acceleration
-
-ARC APEX is designed to take advantage of GPU-accelerated inference.
-
-### Current development hardware
-
-```text
-GPU
-└── NVIDIA RTX PRO 6000
-```
-
-
-The objective is not to maximize GPU utilization blindly.
-
-Instead:
-
-> **Use additional compute where it improves reasoning quality.**
 
 ---
 
