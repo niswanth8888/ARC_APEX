@@ -430,27 +430,7 @@ This separation allows development and experimentation without requiring every e
 
 ARC APEX includes a diagnostic visualization layer for development runs.
 
-When available, the system can render:
 
-- Execution diagnostics
-- Runtime information
-- Benchmark information
-- Solver activity
-- Generated reports
-
-```text
-Benchmark
-    │
-    ▼
-Execution
-    │
-    ▼
-Diagnostics
-    │
-    ├── Runtime Analysis
-    ├── Solver Analysis
-    └── Benchmark Analysis
-```
 
 
 ---
