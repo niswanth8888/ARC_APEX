@@ -422,13 +422,6 @@ ARC APEX Solver
 Local Results
 ```
 
-This separation allows development and experimentation without requiring every execution to be a live competition submission.
-
----
-
-# 📊 Diagnostics
-
-ARC APEX includes a diagnostic visualization layer for development runs.
 
 
 
