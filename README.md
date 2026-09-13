@@ -385,42 +385,6 @@ These components are treated as experimental research mechanisms and will contin
 
 ---
 
-## 07 — Benchmark Execution
-
-The benchmark execution layer supports two operating modes.
-
-### Competition Mode
-
-```text
-Kaggle Environment
-       │
-       ▼
-Competition Gateway
-       │
-       ▼
-Live ARC Environments
-       │
-       ▼
-ARC APEX Solver
-       │
-       ▼
-Competition Output
-```
-
-### Offline Mode
-
-```text
-Bundled Environment Files
-       │
-       ▼
-Offline ARC Runtime
-       │
-       ▼
-ARC APEX Solver
-       │
-       ▼
-Local Results
-```
 
 
 
