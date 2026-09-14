@@ -354,35 +354,6 @@ The benchmark is redirected to the Kaggle working directory so generated artifac
 
 ---
 
-## 06 — Solver Customization
-
-Provides an experimental extension point for ARC APEX.
-
-Current customization mechanisms include:
-
-```text
-Efficiency
-     │
-     ├── Runtime-aware analysis
-     │
-     ▼
-Retry Guard
-     │
-     ├── Controlled retry behavior
-     │
-     ▼
-Shortcircuit
-     │
-     ├── Avoid unnecessary execution
-     │
-     ▼
-Recovery
-     │
-     └── Recover from unsuccessful reasoning paths
-```
-
-These components are treated as experimental research mechanisms and will continue to evolve.
-
 ---
 
 
