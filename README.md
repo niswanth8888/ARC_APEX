@@ -344,13 +344,6 @@ This stage is responsible for making bundled repositories importable and executi
 - Runtime configuration
 - Inference service preparation
 
----
-
-## 05 — Benchmark Initialization
-
-Loads the serialized benchmark and deployment configuration.
-
-The benchmark is redirected to the Kaggle working directory so generated artifacts can be stored and inspected.
 
 ---
 
