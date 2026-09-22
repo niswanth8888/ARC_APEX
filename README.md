@@ -111,10 +111,7 @@ arc-apex-4-18-github/
 ├── notebooks/arc-apex-4-18.ipynb    # Original source notebook
 ├── pipeline/                         # 11 documented executable stages
 ├── manifest.json                     # Cell mapping and SHA-256 provenance
-├── run_all.py                        # Shared-namespace async runner
-├── validate_repo.py                  # Notebook-to-module equivalence checks
-├── requirements.txt                  # Runtime dependency declaration
-└── NOTICE.md                         # Upstream attribution and licensing note
+├── run                               # Shared-namespace async runner
 ```
 
 ---
