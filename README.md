@@ -459,8 +459,6 @@ packages. Those dependencies retain their respective licenses and ownership. See
 
 <div align="center">
 
-**ARC APEX · Built from the ground up for measurable adaptive reasoning.**
-
 [Back to top](#-arc-apex)
 
 </div>
