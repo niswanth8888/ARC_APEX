@@ -451,9 +451,6 @@ ARC APEX is our independently developed project. Its pipeline architecture,
 experiment controls, action safeguards, observability system, validation workflow,
 and documentation belong to this project.
 
-The system integrates Kaggle competition interfaces and external runtime/model
-packages. Those dependencies retain their respective licenses and ownership. See
-[`NOTICE.md`](NOTICE.md) for the dependency notice.
 
 ---
 
